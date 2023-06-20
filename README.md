@@ -16,9 +16,7 @@
   </a>
   
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saani765&style=flat-square&color=blue" alt=""/>
-</div>
+<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=Saani765&label=Profile%20views&color=fa1b87&style=flat"> </p>
 
 
 <div align="center">
@@ -26,8 +24,25 @@
   Hi there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
+
+
   
 </div>
+
+<h3><b>My GitHub Stats <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> </b></h3>
+  <p align="center">
+    <br>
+    <a href="https://github.com/Saani765">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Saani765&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+    <a href="https://github.com/Saani765/Saani765">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saani765&layout=compact&theme=dracula"/></a>
+  </p><br>
+
+ 
+
 
 
 
