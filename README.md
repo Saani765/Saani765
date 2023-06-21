@@ -18,6 +18,12 @@
   </a>
   
 </div>
+<div align="center">
+    <a href="https://leetcode.com/saani765/">
+   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge")
+/>
+  
+</div>
 <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=Saani765&label=Profile%20views&color=fa1b87&style=flat"> </p>
 
 
