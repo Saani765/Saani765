@@ -8,7 +8,8 @@
   <h1>
     Connect with me 😁
   </h1>
-  <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=Saani765&label=Profile%20views&color=fa1b87&style=flat"> </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
+  
 </div>
 
 <div id="badges" align="center">
