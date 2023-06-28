@@ -4,6 +4,13 @@
   <img src="https://media.giphy.com/media/mX1bWOEGPIAY1yhmKI/giphy-downsized-large.gif" width="200"/>
 </div>
 
+<div align="center">
+  <h1>
+    Connect with me 😁
+  </h1>
+  <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=Saani765&label=Profile%20views&color=fa1b87&style=flat"> </p>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/saanidhya-singh765/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
