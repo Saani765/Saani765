@@ -1,12 +1,14 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/mX1bWOEGPIAY1yhmKI/giphy-downsized-large.gif" width="200"/>
+  <img src="https://media.giphy.com/media/mX1bWOEGPIAY1yhmKI/giphy-downsized-large.gif" width="400"/>
 </div>
 
 <div align="center">
   <h1>
-    Connect with me 😁
+    Hi there
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
   
@@ -37,8 +39,8 @@
 
 <div align="center">
 <h1>
-  Hi there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   Connect with me 😁
+ 
 </h1>
 
 
