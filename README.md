@@ -36,6 +36,11 @@
     <a href="https://leetcode.com/saani765/">
    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge")
 />
+    <a href="mailto:saani765@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+   
 
   
 </div>
