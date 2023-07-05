@@ -57,7 +57,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
 
 <h1>
- Tools used ⛏️🧰⚒️
+ Tech Stack 🧰⛏️
 
 </h1>
 <p> 
