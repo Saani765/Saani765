@@ -41,6 +41,7 @@
     <a href="mailto:saani765@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  
 
    
 
@@ -72,14 +73,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png" alt="jupyterlab-logo">
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/60px-TensorFlowLogo.svg.png" alt="tensorflow-logo">
+   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google-colab-logo" height="40">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java-logo" height="40">
   </figure>
  </div>
   <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/90px-Pytorch_logo.png" alt="pytorch-logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/30px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv-logo">
   
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google-colab-logo" height="40">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java-logo" height="40">
+ 
   
   
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn-logo" height="40">
@@ -87,6 +89,7 @@
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas-logo" height="40">
   <img src="https://keras.io/img/logo.png" alt="keras-logo" height="40">
   <img src="https://numpy.org/images/logo.svg" alt="numpy-logo" height="40">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code logo" height="40">
   </figure>
 
 
