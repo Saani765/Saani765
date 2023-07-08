@@ -90,6 +90,21 @@
   <img src="https://keras.io/img/logo.png" alt="keras-logo" height="40">
   <img src="https://numpy.org/images/logo.svg" alt="numpy-logo" height="40">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code logo" height="40">
+  
+<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js logo" height="40">
+
+
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL logo" height="40">
+
+
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js logo" height="40">
+
+
+<img src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico" alt="jQuery logo" height="40">
+
+
+<img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB logo" height="40">
+<img src="https://material-ui.com/static/logo.png" alt="Material-UI logo" height="40">
   </figure>
 
 
