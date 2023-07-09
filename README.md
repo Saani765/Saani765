@@ -20,28 +20,26 @@
 </div>
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/saanidhya-singh765/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/saanidhya.singh/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    
 
-  </a>
-  <a href="https://twitter.com/Saaanniiii">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-</div>
-<div align="center">
-    <a href="https://leetcode.com/saani765/">
-   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge")
-/>
-    <a href="mailto:saani765@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  
+
+
+
+
+<div id="badges" align="center">
+    
+<p>
+      <a href="https://twitter.com/Saaanniiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iampatelajeet" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saanidhya-singh765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iampatelajeet" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saanidhya.singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iampatelajeet" height="30" width="40" /></a>
+
+
+
+  </p>
+  <p>
+    <a href="https://leetcode.com/saani765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajeet_1606" height="30" width="40" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/saani765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/patelajeet" height="30" width="40" /></a>
+  </p>
 
    
 
