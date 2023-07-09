@@ -39,7 +39,9 @@
     <a href="https://leetcode.com/saani765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajeet_1606" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/saani765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/patelajeet" height="30" width="40" /></a>
+
   </p>
+  
 
    
 
@@ -131,6 +133,8 @@
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Saani765&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
     <a href="https://github.com/Saani765/Saani765">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saani765&layout=compact&theme=dracula"/></a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saani765&theme=dracula" alt="Saani765" />
+    
   </p><br>
 
  
