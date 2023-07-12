@@ -130,9 +130,9 @@
   <p align="center">
     <br>
     <a href="https://github.com/Saani765">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Saani765&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Saani765&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&PAT_1=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"/></a>
     <a href="https://github.com/Saani765/Saani765">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saani765&layout=compact&theme=dracula"/></a>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saani765&layout=compact&theme=dracula&PAT_1=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"/></a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saani765&theme=dracula" alt="Saani765" />
     
   </p><br>
