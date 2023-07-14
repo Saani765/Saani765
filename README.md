@@ -106,6 +106,8 @@
 
 <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB logo" height="40">
 <img src="https://material-ui.com/static/logo.png" alt="Material-UI logo" height="40">
+<img width="40" alt="flask" src="https://github.com/Saani765/Saani765/assets/98387792/2696d852-2df5-44bd-ba81-bb21faacb6fa">
+
 
   </figure>
 
