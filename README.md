@@ -75,7 +75,7 @@
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/60px-TensorFlowLogo.svg.png" alt="tensorflow-logo">
    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google-colab-logo" height="40">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java-logo" height="40">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java-logo" height="60">
   </figure>
  </div>
   <figure>
@@ -106,6 +106,7 @@
 
 <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB logo" height="40">
 <img src="https://material-ui.com/static/logo.png" alt="Material-UI logo" height="40">
+
   </figure>
 
 
