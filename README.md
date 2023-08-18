@@ -70,6 +70,7 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849661/css_jtfcoz.png" alt="css-logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png" alt="python-logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png" alt="react-logo">
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c++" height="40">
    
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png" alt="jupyterlab-logo">
   
@@ -81,6 +82,7 @@
   <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/90px-Pytorch_logo.png" alt="pytorch-logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/30px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv-logo">
+  
   
  
   
