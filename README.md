@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Saanidhya+Singh;Tech Enthusiast+%7C+BTech+Student+%7C+Engineering;DSA+%7C+CP+%7C+ML+%7C+Web Dev+🚀🥰" alt="Typing SVG" />
+</p>
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/mX1bWOEGPIAY1yhmKI/giphy-downsized-large.gif" width="600"/> -->
