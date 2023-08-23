@@ -61,7 +61,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
 
 <h1>
- Tech Stack 🧰⛏️
+ Languages , Frameworks and Tools 🧰⛏️
 
 </h1>
 <p> 
