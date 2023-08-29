@@ -1,3 +1,5 @@
+
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Saanidhya+Singh;Tech Enthusiast+%7C+BTech+Student+%7C+Engineering;DSA+%7C+CP+%7C+ML+%7C+Web Dev+🚀🥰" alt="Typing SVG" />
 </p>
@@ -15,6 +17,9 @@
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?color=%35dff9&size=20&center=true&vCenter=true&width=485&lines=Just+a+beginner.+Still+got+a+lot+to+learn.;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a beginner. Still got a lot to learn." />
+  </p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
   <h1>
    Connect with me 😁
