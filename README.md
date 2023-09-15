@@ -162,8 +162,8 @@
 
 
 
-- 🔭 I’m currently working on React projects and ML related projects
-- 🌱 I’m currently learning Computer Vision and JS libraries and frameworks and ofc dsa.
+- 🔭 I’m currently working on Open Source
+- 🌱 I’m currently learning Computer Vision and JS libraries and frameworks and ofcourse dsa.
 
 - 🤔 I’m looking for help with open source contributions and dsa
 
