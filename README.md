@@ -36,9 +36,9 @@
 <div id="badges" align="center">
     
 <p>
-      <a href="https://twitter.com/Saaanniiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saani" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saanidhya-singh765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saanidhya.singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saani" height="30" width="40" /></a>
+      <a href="https://twitter.com/Saaanniiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saanidhya-singh765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saanidhya.singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saani" height="30" width="40" /></a>
 
 
 
