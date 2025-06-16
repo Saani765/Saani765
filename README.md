@@ -1,7 +1,6 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Saanidhya+Singh;Tech Enthusiast+%7C+BTech+Student+%7C+Engineering;DSA+%7C+CP+%7C+ML+%7C+Web Dev+🚀🥰" alt="Typing SVG" />
 </p>
 
 <div id="header" align="center">
@@ -162,10 +161,10 @@
 
 
 
-- 🔭 I’m currently working on Open Source
-- 🌱 I’m currently learning Computer Vision and JS libraries and frameworks and ofcourse dsa.
+- 🔭 I’m currently working on NLP
+- 🌱 I’m currently learning Pytorch and NLP and ML frameworks.
 
-- 🤔 I’m looking for help with open source contributions and dsa
+- 🤔 I’m looking for help with ML and AI jobs.
 
 - 📫 How to reach me: saani765@gmail.com
 
