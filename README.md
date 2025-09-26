@@ -162,9 +162,9 @@
 
 
 - 🔭 I’m currently working on NLP
-- 🌱 I’m currently learning Pytorch and NLP and ML frameworks.
+- 🌱 I’m currently learning Deep Learning and GenAI 
 
-- 🤔 I’m looking for help with ML and AI jobs.
+- 🤔 I’m looking for help with ML and AI advancements
 
 - 📫 How to reach me: saani765@gmail.com
 
